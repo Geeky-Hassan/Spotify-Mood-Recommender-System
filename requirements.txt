@@ -1,6 +1,7 @@
 pandas
 streamlit-lottie
 requests
-pickle
+pickle-mixin
 scikit-learn
+streamlit
 
