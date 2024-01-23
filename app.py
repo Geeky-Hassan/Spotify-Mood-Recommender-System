@@ -143,7 +143,7 @@ st.markdown(
     """
     <div class="footer">
         <p>Made By <b>White Hat Team</b></p>
-        <a href="https://github.com/Geeky-Hassan/Spotify-Mood-Recommender-System/" target="_blank">
+        <a href="https://github.com/ArmanMehdi/Music-mood-predictor" target="_blank">
             <img src="https://media.istockphoto.com/id/511653492/vector/incognito-hacker-spy-agent.jpg?s=612x612&w=0&k=20&c=IO9KG36TQ2wnIR3idSk-oEDV9zx5BsyduKQAlWPhNJU=" alt="White Hat Logo" width="30">
             Github Repository
         </a>
